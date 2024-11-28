@@ -91,6 +91,7 @@ Olá, meu nome é Pedro Pereira Mascarenhas, tenho 20 anos e sou de Salvador. Co
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroper2&theme=highcontrast&layout=compact&custom_title=Tecnologiass&langs_count=4"
+    
   />
   
 </p>
