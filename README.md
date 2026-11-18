@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá, meu nome é Pedro Pereira Mascarenhas, tenho 20 anos e sou de Salvador. Conclui o ensinio médio e atualmente estou cursando tecnico em Análise e Desenvolvimento de Sistemas.Tenho um grande interesse pela area back-end mas estou disposto a aceita qualquer desafio. Sou extremamente curioso e tenho um enorme desejo de aprende sobres novas tecnologias.
+Olá, meu nome é Pedro Pereira Mascarenhas, tenho 20 anos e sou de Salvador. Conclui o ensino médio e atualmente estou cursando tecnico em Análise e Desenvolvimento de Sistemas.Tenho um grande interesse pela area back-end mas estou disposto a aceita qualquer desafio. Sou extremamente curioso e tenho um enorme desejo de aprende sobres novas tecnologias.
 <p align="left">
     <a href="https://www.linkedin.com/in/pedro-pereira-mascarenhas?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img 
